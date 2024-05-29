@@ -12,7 +12,7 @@ public class Main {
         players.add(new Player( 100, 10, 5));
         players.add(new Player( 70, 7, 7));
         players.add(new Player( 60, 8, 6));
-
+        // ek line add
         Random random = new Random();
         Arena arena ;
         while (true)
